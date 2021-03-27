@@ -22,8 +22,8 @@ def main():
 def logo():
   print """%s
   __ __ ___  ___   __  __  ____   __                              
- | |/ / | | |   \  |    | |    | |  \  |%sAuthor by %sridwanszz15%s
- | |    | | | )  | | __ | |____| |   \ |%sGithub %sgithub.com/ridwanszz15%s
+ | |/ / | | |   \  |    | |    | |  \  |%sAuthor by %sbhatumee%s
+ | |    | | | )  | | __ | |____| |   \ |%sGithub %sgithub.com/bhatumee%s
  |_|    |_| |___/  |/  \| |    | |    \|%sTeam %sSecretCreator%s
  =======================================%sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
